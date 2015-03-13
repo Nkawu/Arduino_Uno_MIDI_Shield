@@ -1,5 +1,7 @@
 # Arduino Uno MIDI Shield
 
+Follow my [Hackaday Project Page](http://hackaday.io/project/4741-organ-pedalboard-midi-conversion)!
+
 <img src="https://raw.githubusercontent.com/Nkawu/Arduino_Uno_MIDI_Shield/master/images/shield.png" width="300">
 
 This project originated during the conversion of an old AGO spec pipe organ pedalboard to MIDI in order to be used with
